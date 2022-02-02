@@ -1,4 +1,4 @@
-# drowsinessDetection2022
+# Drowsiness Detection System
 
 * This is a python based app to detect if the person sitting in front of the camera is feeling drowsy,if yes then a alaraming sound will be played.
 * This can be used to reduce road accidents that occur due to drowsiness.
